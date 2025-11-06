@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bethnguyenpawn/bethnguyenpawn/main/banner.png" alt="Anh Nguyen Banner" width="100%">
-</p>
-
 <h1 align="center">Hi there 👋, I'm Anh Nguyen</h1>
 
 <p align="center">
@@ -79,14 +74,12 @@ BSc in Chemical Engineering
 - Developed an Android app to detect GNSS anomalies in maritime navigation.  
 - Designed CI/CD pipelines for automated build, testing, and deployment.  
 - Project to be presented at Winter Satellite Workshop 2026.  
-![Demo](https://media.giphy.com/media/3o7aD4d2hiV6R8d0eQ/giphy.gif)
 
 **Machine Learning Developer – Student GPA Prediction App** | Personal Project  
 *Tech stack:* Python, Streamlit, Scikit-learn, Plotly  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 - Built interactive Streamlit app predicting student GPA using Random Forest.  
 - Clean UI with dark/light themes.  
-![Demo](https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif)
 
 **Participant – ECIU Challenge: Building Community** | INSA Centre Val de Loire, France  
 - Multicultural team designing AI-driven solutions for community engagement.  
@@ -94,21 +87,13 @@ BSc in Chemical Engineering
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Top Languages Used
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bethnguyenpawn&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bethnguyenpawn&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
 
-## 🕒 Timeline
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=bethnguyenpawn&theme=radical)
-
----
-
 ## ✨ Contact Me
 Feel free to reach out via [Email](mailto:minhanhnguyen08092004@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/nguyen-anh521666278)!
-
-
